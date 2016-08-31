@@ -1,0 +1,49 @@
+.mt{
+	margin-top: 5%;
+}
+.mt7{
+	margin-top: 70%;
+}
+
+.im1{
+	background-image: url("../image/img_grid_principal.jpg");
+	background-size: 95%;
+	background-repeat: no-repeat;
+	height: 473px;
+
+}
+.im2{
+	background-image: url("../image/img_grid_secundario.jpg");
+	background-size: 97%;
+	background-repeat: no-repeat;
+	height: 650px;
+}
+.im3{
+	background-image: url("../image/img_especiales.jpg");
+	background-size: 97%;
+	background-repeat: no-repeat;
+	height: 650px;
+}
+.slider{
+	width: 700px;
+	height: 300px;
+	margin: auto;
+}
+.slider .item{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 300px;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green; 
+}
+.black{
+	background-color: black;
+}

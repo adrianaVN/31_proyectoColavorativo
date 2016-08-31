@@ -1,0 +1,27 @@
+
+.mt{
+	margin-top: 5%;
+}
+.mt7{
+	margin-top: 70%;
+}
+
+.im1{
+	background-image: url("../image/img_grid_principal.jpg");
+	background-size: 95%;
+	background-repeat: no-repeat;
+	height: 473px;
+
+}
+.im2{
+	background-image: url("../image/img_grid_secundario.jpg");
+	background-size: 97%;
+	background-repeat: no-repeat;
+	height: 650px;
+}
+.im3{
+	background-image: url("../image/img_especiales.jpg");
+	background-size: 97%;
+	background-repeat: no-repeat;
+	height: 650px;
+}
