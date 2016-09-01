@@ -1,0 +1,13 @@
+.bg-gris{
+	background-color: #B0B0B0;
+	margin:2%;	
+	padding: 3%;
+}
+.text-g{
+	color: gray;
+}
+.borde{
+	border: solid white;
+	box-shadow: 0 2px 2px  0 black;
+	display: inline-block;
+}
