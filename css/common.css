@@ -15,6 +15,12 @@ a{
 	color:#BDBDBD;
 }
 
+/*css nav con slider*/
+
+.imginline{
+	display: inline-block;
+}
+
 .search{
 	float: right;
 }
@@ -22,6 +28,13 @@ a{
 	background-color:#DF0101;
 	border:#DF0101;
 	color: white;
+}
+.navgray{
+	background-color:#BDBDBD;
+	border:#BDBDBD;
+	color: white;
+}
+
 }
 .lg16-foot{
 	color: #848484;
